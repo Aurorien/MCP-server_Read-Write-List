@@ -4,7 +4,7 @@ An MCP-server that allows Claude to read, write or list files in a specified dir
 
 ## Instructions
 
-1. Clone repo 
+1. Clone repo.
 2. Navigate to repo in a terminal and install dependencies by running `npm install`.
 3. Add .env file where you set ALLOWED_DIRECTORY to the directory you want Claude to have access to.
 4. Build the solution by running `npm run build`.
@@ -20,5 +20,5 @@ An MCP-server that allows Claude to read, write or list files in a specified dir
   }
 }
 ```
-6. Restart Claude Desktop completely (quit and reopen)
+6. Restart Claude Desktop completely (quit and reopen).
 7. Ready to use! Ask Claude eg. info of the files, list files or change in files. 
